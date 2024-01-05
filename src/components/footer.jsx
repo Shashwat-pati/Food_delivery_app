@@ -13,11 +13,11 @@ export default function footer() {
                         to="/"
                         className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1 fs-3"
                     >
-                        EAT-N-DRINK
+                        Dice-N-Dine
                     </Link>
                 </div>
                 <div className="mb-3 mb-md-0 text-light">
-                    © 2022 Eat N Drink. Inc
+                    © 2022 Dice-N-Dine. Inc
                 </div>
                 <ul className="nav col-md-4 justify-content-end list-unstyled d-flex me=2">
                     <li className="ms-3">

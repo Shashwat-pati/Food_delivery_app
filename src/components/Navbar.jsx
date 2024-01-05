@@ -33,11 +33,11 @@ export default function Navbar({ allowHim }) {
             >
                 <div className="container-fluid ">
                     <Link
-                        className="navbar-brand fs-3 fst-italic"
-                        style={{ color: "#198754" }}
+                        className="navbar-brand fs-3"
+                        style={{ color: "#0ee3dc" }}
                         to="/"
                     >
-                        Eat N Drink
+                        Dice-N-Dine
                     </Link>
                     <button
                         className="navbar-toggler"
@@ -60,7 +60,7 @@ export default function Navbar({ allowHim }) {
                                     className="nav-link active fs-5"
                                     aria-current="page"
                                     to="/"
-                                    style={{ color: "#198754" }}
+                                    style={{ color: "hsl(30, 93%, 50%)" }}
                                 >
                                     Home
                                 </Link>
@@ -72,7 +72,7 @@ export default function Navbar({ allowHim }) {
                                     className="nav-link active fs-5"
                                     aria-current="page"
                                     to="/myOrder"
-                                    style={{ color: "#198754" }}
+                                    style={{ color: "hsl(30, 93%, 50%)" }}
                                 >
                                     MyOrders
                                 </Link>
@@ -110,10 +110,12 @@ export default function Navbar({ allowHim }) {
                                     <span
                                         style={{
                                             verticalAlign: "super",
-                                            margin: "5px",
-                                            padding: "4px",
+                                            margin: "8px",
+                                            padding: "6px",
                                             backgroundColor: "#198754",
-                                            borderRadius: "9px",
+                                            borderRadius: "10px",
+                                            alignContent: "center",
+                                            gap: "10px",
                                             color: "white",
                                         }}
                                     >
