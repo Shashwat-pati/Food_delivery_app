@@ -18,8 +18,9 @@ Your app is ready to be deployed!
 
 
 Below is the attached images and Video description of the web-application build.💖
--- Video --🎥
 
+-- Video --🎥
+https://github.com/Shashwat-pati/Food_delivery_app/assets/99614901/cb2dcdb7-e12b-4d45-8071-b3b29acf136b
 
 -- Images -- 📸
 ![Screenshot (11)](https://github.com/Shashwat-pati/Food_delivery_app/assets/99614901/e8254cc5-51fa-49b4-afd9-aa4a10f7c294)
