@@ -7,6 +7,7 @@ Food Delivery Web Application
 🔸Used tech stach such as `Node.js` & hosted as backend server using `Express.js`.
 
 🔸Learnt the use of `React Redux` which provides a centralized state management system for React applications, improving scalability and maintainability by separating state logic from UI components.
+
 -----------------------------------------------------------------------------------
 
 
