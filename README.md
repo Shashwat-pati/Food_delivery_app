@@ -4,7 +4,7 @@
 
 🔸Implemented `MongoDB` for database management which stores the User details for Login & Sign Up.It also stores the order details and history.
 
-🔸Used tech stach such as `Node.js` & hosted as backend server using `Express.js`.
+🔸Used tech stach such as `React.js`,`Node.js` & hosted as backend server using `Express.js`.
 
 🔸Learnt the use of `React Redux` which provides a centralized state management system for React applications, improving scalability and maintainability by separating state logic from UI components.
 
