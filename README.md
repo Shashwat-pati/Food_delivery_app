@@ -1,3 +1,12 @@
+Food Delivery Web Application
+🔸A Full Stack web application where user can order food items such as Pizza, Starters etc.
+🔸Implemented `MongoDB` for database management which stores the User details for Login & Sign Up.It also stores the order details and history.
+🔸Used tech stach such as `Node.js` & hosted as backend server using `Express.js`.
+🔸Learnt the use of `React Redux` which provides a centralized state management system for React applications, improving scalability and maintainability by separating state logic from UI components.
+-----------------------------------------------------------------------------------
+
+
+
 ## Available Scripts
 In the project directory, you can run:
 
@@ -10,14 +19,11 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-----------------------------------------------------------------------------------
 
 
-
-Below is the attached images and Video description of the web-application build.💖
+🔖 Below is the attached images and Video description of the web-application build.
 
 -- Video --🎥
 https://github.com/Shashwat-pati/Food_delivery_app/assets/99614901/cb2dcdb7-e12b-4d45-8071-b3b29acf136b
